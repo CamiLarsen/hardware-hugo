@@ -1,18 +1,17 @@
 baseURL = "http://localhost/"
 languageCode = "es"
-title = "Trabajo Final Hardware"
+title = "Inicio"
 theme = "PaperMod"
 
 [params]
-  ShowReadingTime = true
-  ShowToc = true
-  ShowBreadCrumbs = true
+  ShowReadingTime = false
+  ShowToc = false
+  ShowBreadCrumbs = false
   defaultTheme = "auto"
   disableThemeToggle = false
+  homeInfoParams = false 
+  
 
-  [params.homeInfoParams]
-    Title = "Trabajo Final Hardware"
-    Content = "Sitio del trabajo integrador de Laboratorio de Hardware - Tecnicatura en Desarrollo de Software"
 
 [menu]
   [[menu.main]]

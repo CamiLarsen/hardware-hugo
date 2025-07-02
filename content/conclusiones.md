@@ -1,7 +1,8 @@
 ---
-title: "Conclusiones"
 date: 2025-06-30
 ---
+
+![Portada Conclusiones](/images/portadaconclu.png)
 
 ##  Conclusiones del Proyecto de Hardware
 

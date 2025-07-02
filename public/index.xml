@@ -1,19 +1,99 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Trabajo Final Hardware</title>
+    <title>Inicio</title>
     <link>http://localhost/</link>
-    <description>Recent content on Trabajo Final Hardware</description>
+    <description>Recent content on Inicio</description>
     <generator>Hugo -- 0.147.9</generator>
     <language>es</language>
-    <lastBuildDate>Mon, 30 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Jun 2025 18:51:00 -0300</lastBuildDate>
     <atom:link href="http://localhost/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Conclusiones</title>
+      <title></title>
+      <link>http://localhost/justificacion/</link>
+      <pubDate>Mon, 30 Jun 2025 18:51:00 -0300</pubDate>
+      <guid>http://localhost/justificacion/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Portada Justificacion&#34; loading=&#34;lazy&#34; src=&#34;http://localhost/images/portadajustif.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost/requisitos/</link>
+      <pubDate>Mon, 30 Jun 2025 18:50:53 -0300</pubDate>
+      <guid>http://localhost/requisitos/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Portada Requisitos&#34; loading=&#34;lazy&#34; src=&#34;http://localhost/images/portadarequis.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost/presupuesto/</link>
+      <pubDate>Mon, 30 Jun 2025 18:50:46 -0300</pubDate>
+      <guid>http://localhost/presupuesto/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Portada Presupuesto&#34; loading=&#34;lazy&#34; src=&#34;http://localhost/images/portadapresup.png&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;presupuesto-estimado&#34;&gt;Presupuesto estimado&lt;/h1&gt;
+&lt;h2 id=&#34;hardware&#34;&gt;Hardware&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Componente&lt;/th&gt;
+          &lt;th&gt;Modelo sugerido&lt;/th&gt;
+          &lt;th&gt;Precio aproximado&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;CPU&lt;/td&gt;
+          &lt;td&gt;Intel Core i7 13700&lt;/td&gt;
+          &lt;td&gt;$621.330&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;GPU&lt;/td&gt;
+          &lt;td&gt;Placa de video Nvidia Gigabyte Gaming GeForce RTX 30 series RTX 3060 OC Edition 12GB&lt;/td&gt;
+          &lt;td&gt;$579.999&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;RAM&lt;/td&gt;
+          &lt;td&gt;32 GB (2X16GB) DDR5 520 KINSTON FURY BEAST RGB&lt;/td&gt;
+          &lt;td&gt;$152.735&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Almacenamiento&lt;/td&gt;
+          &lt;td&gt;SSD Kingston NV3 1TB PCle 4.0 NVMe&lt;/td&gt;
+          &lt;td&gt;$89.599&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Monitor&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;$&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Periféricos (mouse, teclado)&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;$&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Fuente y gabinete&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;$&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;*Total estimado: *&lt;em&gt;$&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;software&#34;&gt;Software&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Autodesk Fusion: Gratis para estudiantes / licencia comercial desde $4&lt;/li&gt;
+&lt;li&gt;Proteus Design Suite: Desde $&lt;/li&gt;
+&lt;li&gt;Visual Studio Code: Gratuito&lt;/li&gt;
+&lt;li&gt;Adobe Acrobat Reader: Gratuito&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;El costo total puede variar según licencias educativas o versiones de prueba disponibles.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
       <link>http://localhost/conclusiones/</link>
       <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost/conclusiones/</guid>
-      <description>&lt;h2 id=&#34;conclusiones-del-proyecto-de-hardware&#34;&gt;Conclusiones del Proyecto de Hardware&lt;/h2&gt;
+      <description>&lt;p&gt;&lt;img alt=&#34;Portada Conclusiones&#34; loading=&#34;lazy&#34; src=&#34;http://localhost/images/portadaconclu.png&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;conclusiones-del-proyecto-de-hardware&#34;&gt;Conclusiones del Proyecto de Hardware&lt;/h2&gt;
 &lt;p&gt;El desarrollo de este trabajo permitió aplicar de forma práctica los conocimientos adquiridos en la materia &lt;strong&gt;Laboratorio de Hardware&lt;/strong&gt;, abordando desde la selección de componentes hasta la proyección de un sistema funcional y escalable para el hogar.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;elección-fundamentada-de-hardware&#34;&gt;Elección fundamentada de hardware&lt;/h3&gt;
