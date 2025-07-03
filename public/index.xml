@@ -2,33 +2,94 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Inicio</title>
-    <link>http://localhost/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Inicio</description>
     <generator>Hugo -- 0.147.9</generator>
     <language>es</language>
     <lastBuildDate>Mon, 30 Jun 2025 18:51:00 -0300</lastBuildDate>
-    <atom:link href="http://localhost/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost/justificacion/</link>
+      <link>http://localhost:1313/justificacion/</link>
       <pubDate>Mon, 30 Jun 2025 18:51:00 -0300</pubDate>
-      <guid>http://localhost/justificacion/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;Portada Justificacion&#34; loading=&#34;lazy&#34; src=&#34;http://localhost/images/portadajustif.png&#34;&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/justificacion/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Portada Justificacion&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/portadajustif.png&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;elección-del-hardware&#34;&gt;Elección del Hardware&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Selección de marca, modelo y precio de referencia en Argentina de cada componente.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Justificación de elección.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost/requisitos/</link>
+      <link>http://localhost:1313/requisitos/</link>
       <pubDate>Mon, 30 Jun 2025 18:50:53 -0300</pubDate>
-      <guid>http://localhost/requisitos/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;Portada Requisitos&#34; loading=&#34;lazy&#34; src=&#34;http://localhost/images/portadarequis.png&#34;&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/requisitos/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Portada Requisitos&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/portadarequis.png&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;software-requerido&#34;&gt;Software requerido&lt;/h2&gt;
+&lt;h3 id=&#34;autodesk-fusion&#34;&gt;Autodesk Fusion&lt;/h3&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;img alt=&#34;Autodesk&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/autodesk.png&#34;&gt;&lt;/th&gt;
+          &lt;th&gt;Software de modelado 3D y diseño asistido por computadora, utilizado para crear piezas mecánicas y simulaciones. Ideal para ingeniería de productos.&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;visual-studio-code&#34;&gt;Visual Studio Code&lt;/h3&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;img alt=&#34;Visual Studio Code&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/visual.png&#34;&gt;&lt;/th&gt;
+          &lt;th&gt;Editor de código fuente liviano pero potente, compatible con múltiples lenguajes y extensiones.&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;adobe-acrobat-reader&#34;&gt;Adobe Acrobat Reader&lt;/h3&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;img alt=&#34;Adobe Acrobat&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/adobe.png&#34;&gt;&lt;/th&gt;
+          &lt;th&gt;Software que permite visualizar, anotar e imprimir documentos PDF, útil para manuales técnicos o informes.&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;proteus-design-suite&#34;&gt;Proteus Design Suite&lt;/h3&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;img alt=&#34;Proteus&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/proteus.png&#34;&gt;&lt;/th&gt;
+          &lt;th&gt;Entorno de simulación y diseño electrónico que permite crear esquemas eléctricos y circuitos impresos.&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;enlaces-de-descarga&#34;&gt;🔗Enlaces de descarga&lt;/h4&gt;
+&lt;h5 id=&#34;autodesk-fusion-1&#34;&gt;&lt;a href=&#34;https://www.autodesk.com/latam/products/autocad/overview?cjdata=MXxOfDB8WXww&amp;amp;term=1-YEAR&amp;amp;AID=13955714&amp;amp;PID=8299320&amp;amp;SID=jkp_CjwKCAjwsZPDBhBWEiwADuO6y6R-oYgjREDpOiO-f2b1w_9DU8SxkL538zYB6qPwFLMPndT9xxTtRRoC45EQAvD_BwE&amp;amp;cjevent=e97fcd5c57b011f0822900160a82b82c&amp;amp;mktvar002=afc_latam_deeplink&amp;amp;affname=8299320_13955714&#34;&gt;Autodesk Fusion&lt;/a&gt;&lt;/h5&gt;
+&lt;h5 id=&#34;visual-studio-code-1&#34;&gt;&lt;a href=&#34;https://code.visualstudio.com/&#34;&gt;Visual Studio Code&lt;/a&gt;&lt;/h5&gt;
+&lt;h5 id=&#34;adobe-acrobat-reader-1&#34;&gt;&lt;a href=&#34;https://get.adobe.com/es/reader/&#34;&gt;Adobe Acrobat Reader&lt;/a&gt;&lt;/h5&gt;
+&lt;h5 id=&#34;proteus-desing-suite&#34;&gt;&lt;a href=&#34;https://proteus-design-suite.softonic.com/&#34;&gt;Proteus Desing Suite&lt;/a&gt;&lt;/h5&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost/presupuesto/</link>
+      <link>http://localhost:1313/presupuesto/</link>
       <pubDate>Mon, 30 Jun 2025 18:50:46 -0300</pubDate>
-      <guid>http://localhost/presupuesto/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;Portada Presupuesto&#34; loading=&#34;lazy&#34; src=&#34;http://localhost/images/portadapresup.png&#34;&gt;&lt;/p&gt;
-&lt;h1 id=&#34;presupuesto-estimado&#34;&gt;Presupuesto estimado&lt;/h1&gt;
+      <guid>http://localhost:1313/presupuesto/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Portada Presupuesto&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/portadapresup.png&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;presupuesto-estimado&#34;&gt;Presupuesto estimado&lt;/h2&gt;
 &lt;h2 id=&#34;hardware&#34;&gt;Hardware&lt;/h2&gt;
 &lt;table&gt;
   &lt;thead&gt;
@@ -89,10 +150,10 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost/conclusiones/</link>
+      <link>http://localhost:1313/conclusiones/</link>
       <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost/conclusiones/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;Portada Conclusiones&#34; loading=&#34;lazy&#34; src=&#34;http://localhost/images/portadaconclu.png&#34;&gt;&lt;/p&gt;
+      <guid>http://localhost:1313/conclusiones/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Portada Conclusiones&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/portadaconclu.png&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;conclusiones-del-proyecto-de-hardware&#34;&gt;Conclusiones del Proyecto de Hardware&lt;/h2&gt;
 &lt;p&gt;El desarrollo de este trabajo permitió aplicar de forma práctica los conocimientos adquiridos en la materia &lt;strong&gt;Laboratorio de Hardware&lt;/strong&gt;, abordando desde la selección de componentes hasta la proyección de un sistema funcional y escalable para el hogar.&lt;/p&gt;
 &lt;hr&gt;
