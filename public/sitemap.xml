@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/justificacion/</loc>
+    <loc>http://localhost/justificacion/</loc>
     <lastmod>2025-06-30T18:51:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost/</loc>
     <lastmod>2025-06-30T18:51:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/requisitos/</loc>
+    <loc>http://localhost/requisitos/</loc>
     <lastmod>2025-06-30T18:50:53-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/presupuesto/</loc>
+    <loc>http://localhost/presupuesto/</loc>
     <lastmod>2025-06-30T18:50:46-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/conclusiones/</loc>
+    <loc>http://localhost/conclusiones/</loc>
     <lastmod>2025-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost/tags/</loc>
   </url>
 </urlset>

@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Inicio</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost/</link>
     <description>Recent content on Inicio</description>
     <generator>Hugo -- 0.147.9</generator>
     <language>es</language>
     <lastBuildDate>Mon, 30 Jun 2025 18:51:00 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/justificacion/</link>
+      <link>http://localhost/justificacion/</link>
       <pubDate>Mon, 30 Jun 2025 18:51:00 -0300</pubDate>
-      <guid>http://localhost:1313/justificacion/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;Portada Justificacion&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/portadajustif.png&#34;&gt;&lt;/p&gt;
+      <guid>http://localhost/justificacion/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Portada Justificacion&#34; loading=&#34;lazy&#34; src=&#34;http://localhost/images/portadajustif.png&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;elección-del-hardware&#34;&gt;Elección del Hardware&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -23,20 +23,54 @@
 &lt;p&gt;Justificación de elección.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;hr&gt;</description>
+&lt;hr&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;img alt=&#34;Intel&#34; loading=&#34;lazy&#34; src=&#34;http://localhost/images/intel.png&#34;&gt;&lt;/th&gt;
+          &lt;th&gt;PROCESADOR: Intel Core i7 13700h&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;em&gt;Características:&lt;/em&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;ul&gt;
+&lt;li&gt;Núcleos totales 16 Hilos de ejecución&lt;/li&gt;
+&lt;li&gt;24 Núcs. principales 8 rendimiento a 3.4 GH&lt;/li&gt;
+&lt;li&gt;Frec. turbo núcs. prin. hasta 5.3 GHz&lt;/li&gt;
+&lt;li&gt;Núcs. secundarios 8 eficiencia a 2.5 GHz&lt;/li&gt;
+&lt;li&gt;Frec. turbo núcs. sec. hasta 4.2 GHz&lt;/li&gt;
+&lt;li&gt;Caché L2 total 24576 KB&lt;/li&gt;
+&lt;li&gt;Interfaz de memoria DDR5&lt;/li&gt;
+&lt;li&gt;4800, DDR4-3200&lt;/li&gt;
+&lt;li&gt;Memoria máxima 128 GB&lt;/li&gt;
+&lt;li&gt;Chip gráfico integrado&lt;/li&gt;
+&lt;li&gt;iGPU Intel UHD Graphics 770&lt;/li&gt;
+&lt;li&gt;Frecuencia base 300 MHz&lt;/li&gt;
+&lt;li&gt;Sombreadores 256&lt;/li&gt;
+&lt;li&gt;Frecuencia turbo 1600 MHz&lt;/li&gt;
+&lt;li&gt;Cómputo FP32 0.82 TFLOPS TUnión 100 ºC&lt;/li&gt;
+&lt;li&gt;Consumo a frec. base 125 W - Consumo a frec. turbo 253 W&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Justificación:&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/requisitos/</link>
+      <link>http://localhost/requisitos/</link>
       <pubDate>Mon, 30 Jun 2025 18:50:53 -0300</pubDate>
-      <guid>http://localhost:1313/requisitos/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;Portada Requisitos&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/portadarequis.png&#34;&gt;&lt;/p&gt;
+      <guid>http://localhost/requisitos/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Portada Requisitos&#34; loading=&#34;lazy&#34; src=&#34;http://localhost/images/portadarequis.png&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;software-requerido&#34;&gt;Software requerido&lt;/h2&gt;
 &lt;h3 id=&#34;autodesk-fusion&#34;&gt;Autodesk Fusion&lt;/h3&gt;
 &lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
-          &lt;th&gt;&lt;img alt=&#34;Autodesk&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/autodesk.png&#34;&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;img alt=&#34;Autodesk&#34; loading=&#34;lazy&#34; src=&#34;http://localhost/images/autodesk.png&#34;&gt;&lt;/th&gt;
           &lt;th&gt;Software de modelado 3D y diseño asistido por computadora, utilizado para crear piezas mecánicas y simulaciones. Ideal para ingeniería de productos.&lt;/th&gt;
       &lt;/tr&gt;
   &lt;/thead&gt;
@@ -47,7 +81,7 @@
 &lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
-          &lt;th&gt;&lt;img alt=&#34;Visual Studio Code&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/visual.png&#34;&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;img alt=&#34;Visual Studio Code&#34; loading=&#34;lazy&#34; src=&#34;http://localhost/images/visual.png&#34;&gt;&lt;/th&gt;
           &lt;th&gt;Editor de código fuente liviano pero potente, compatible con múltiples lenguajes y extensiones.&lt;/th&gt;
       &lt;/tr&gt;
   &lt;/thead&gt;
@@ -58,7 +92,7 @@
 &lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
-          &lt;th&gt;&lt;img alt=&#34;Adobe Acrobat&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/adobe.png&#34;&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;img alt=&#34;Adobe Acrobat&#34; loading=&#34;lazy&#34; src=&#34;http://localhost/images/adobe.png&#34;&gt;&lt;/th&gt;
           &lt;th&gt;Software que permite visualizar, anotar e imprimir documentos PDF, útil para manuales técnicos o informes.&lt;/th&gt;
       &lt;/tr&gt;
   &lt;/thead&gt;
@@ -69,11 +103,69 @@
 &lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
-          &lt;th&gt;&lt;img alt=&#34;Proteus&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/proteus.png&#34;&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;img alt=&#34;Proteus&#34; loading=&#34;lazy&#34; src=&#34;http://localhost/images/proteus.png&#34;&gt;&lt;/th&gt;
           &lt;th&gt;Entorno de simulación y diseño electrónico que permite crear esquemas eléctricos y circuitos impresos.&lt;/th&gt;
       &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h2 id=&#34;requisitos-de-cada-software&#34;&gt;Requisitos de cada software&lt;/h2&gt;
+&lt;hr&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;Autodesk Fusion&lt;/th&gt;
+          &lt;th&gt;Visual Studio Code&lt;/th&gt;
+          &lt;th&gt;Adobe Acrobat Reader&lt;/th&gt;
+          &lt;th&gt;Proteus Desing Suite&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Sistema opertativo&lt;/td&gt;
+          &lt;td&gt;Windows 11, versión 22H2&lt;/td&gt;
+          &lt;td&gt;Windows 10 y 11 (64 bits)&lt;/td&gt;
+          &lt;td&gt;Windows 11 (64 bits)&lt;/td&gt;
+          &lt;td&gt;Sistema operativo Windows de 64 bits compatible con Microsoft.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;CPU&lt;/td&gt;
+          &lt;td&gt;Procesador x86-64 - Más de 8 núcleos de rendimiento, más de 16 subprocesos - Velocidad de reloj base de más de 3 GHz&lt;/td&gt;
+          &lt;td&gt;Procesador de 1,6 GHz o más rápido&lt;/td&gt;
+          &lt;td&gt;Procesador Intel o AMD (1,5 GHz o más rápido)&lt;/td&gt;
+          &lt;td&gt;Procesador x64 de alto rendimiento con al menos 4 núcleos.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;RAM (memoria)&lt;/td&gt;
+          &lt;td&gt;Más de 32GB&lt;/td&gt;
+          &lt;td&gt;1GB&lt;/td&gt;
+          &lt;td&gt;2GB&lt;/td&gt;
+          &lt;td&gt;16GB o más&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;GPU (gráficos)&lt;/td&gt;
+          &lt;td&gt;Más de 8GB de memoria - Gráficos delicados - DirectX11 (Direct3D 10.1 o superior) - &lt;em&gt;Para el uso profesional de Fusion, Autodesk recomienda hardware de gráficos certificado como AMD Radeon Pro WX, Intel Arc Pro y NVIDIA Quadro, o similar&lt;/em&gt;.&lt;/td&gt;
+          &lt;td&gt;No requiere GPU potente - Cualquier GPU intergada moderna&lt;/td&gt;
+          &lt;td&gt;No requiere GPU potente - GPU compatible con DirectX9&lt;/td&gt;
+          &lt;td&gt;Tarjeta gráfica ATI o NVIDIA dedicada compatible con OpenGL y Direct3D.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Resolución de pantalla&lt;/td&gt;
+          &lt;td&gt;3480x2160 (4K) a 60 Hz (escala 200 %) - Gráficos en lienzo de alta resolución&lt;/td&gt;
+          &lt;td&gt;1024 x 768  píxeles&lt;/td&gt;
+          &lt;td&gt;1024 x 768 píxeles&lt;/td&gt;
+          &lt;td&gt;1920 x 1080 píxeles (Full HD)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Almacenamiento&lt;/td&gt;
+          &lt;td&gt;Más de 15 GB para la instalación y los datos almacenados en caché - Disco de estado sólido&lt;/td&gt;
+          &lt;td&gt;Ocupa menos de 500 MB en disco&lt;/td&gt;
+          &lt;td&gt;900 MB de espacio disponible en el disco duro para inglés - 1TB para otros idiomas&lt;/td&gt;
+          &lt;td&gt;Entre 1.5 GB-2.5GB - Se recomienda tener al menos 10GB libres.&lt;/td&gt;
+      &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr&gt;
@@ -85,10 +177,10 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/presupuesto/</link>
+      <link>http://localhost/presupuesto/</link>
       <pubDate>Mon, 30 Jun 2025 18:50:46 -0300</pubDate>
-      <guid>http://localhost:1313/presupuesto/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;Portada Presupuesto&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/portadapresup.png&#34;&gt;&lt;/p&gt;
+      <guid>http://localhost/presupuesto/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Portada Presupuesto&#34; loading=&#34;lazy&#34; src=&#34;http://localhost/images/portadapresup.png&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;presupuesto-estimado&#34;&gt;Presupuesto estimado&lt;/h2&gt;
 &lt;h2 id=&#34;hardware&#34;&gt;Hardware&lt;/h2&gt;
 &lt;table&gt;
@@ -111,6 +203,11 @@
           &lt;td&gt;$579.999&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
+          &lt;td&gt;Placa Madre&lt;/td&gt;
+          &lt;td&gt;MOTHER ASUS ROG STRIX Z790-E GAMING WIFI DDR5 S 1700&lt;/td&gt;
+          &lt;td&gt;$489.130,44&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
           &lt;td&gt;RAM&lt;/td&gt;
           &lt;td&gt;32 GB (2X16GB) DDR5 520 KINSTON FURY BEAST RGB&lt;/td&gt;
           &lt;td&gt;$152.735&lt;/td&gt;
@@ -121,44 +218,45 @@
           &lt;td&gt;$89.599&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
+          &lt;td&gt;Refigeración&lt;/td&gt;
+          &lt;td&gt;Watercool 360mm MasterLiquid 360L Core ARGB&lt;/td&gt;
+          &lt;td&gt;$189.599&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
           &lt;td&gt;Monitor&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;$&lt;/td&gt;
+          &lt;td&gt;Asus Gamer 24 Full HD Ips 100hz&lt;/td&gt;
+          &lt;td&gt;$240.749&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Gabinete&lt;/td&gt;
+          &lt;td&gt;Atx Xyz Airone 100 Mesh 6. Negro&lt;/td&gt;
+          &lt;td&gt;$86.415&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Fuente&lt;/td&gt;
+          &lt;td&gt;Fuente Gamemax 800W VP-800 80+ Bronze&lt;/td&gt;
+          &lt;td&gt;$76.640&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;Periféricos (mouse, teclado)&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;$&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Fuente y gabinete&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-          &lt;td&gt;$&lt;/td&gt;
+          &lt;td&gt;Kit Teclado y Mouse Inalámbrico Mk345 Logitech&lt;/td&gt;
+          &lt;td&gt;$42.400&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;*Total estimado: *&lt;em&gt;$&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&#34;software&#34;&gt;Software&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Autodesk Fusion: Gratis para estudiantes / licencia comercial desde $4&lt;/li&gt;
-&lt;li&gt;Proteus Design Suite: Desde $&lt;/li&gt;
-&lt;li&gt;Visual Studio Code: Gratuito&lt;/li&gt;
-&lt;li&gt;Adobe Acrobat Reader: Gratuito&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;El costo total puede variar según licencias educativas o versiones de prueba disponibles.&lt;/p&gt;</description>
+&lt;p&gt;*Total estimado: *&lt;em&gt;$2.378.997,44&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/conclusiones/</link>
+      <link>http://localhost/conclusiones/</link>
       <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/conclusiones/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;Portada Conclusiones&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/portadaconclu.png&#34;&gt;&lt;/p&gt;
+      <guid>http://localhost/conclusiones/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Portada Conclusiones&#34; loading=&#34;lazy&#34; src=&#34;http://localhost/images/portadaconclu.png&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;conclusiones-del-proyecto-de-hardware&#34;&gt;Conclusiones del Proyecto de Hardware&lt;/h2&gt;
-&lt;p&gt;El desarrollo de este trabajo permitió aplicar de forma práctica los conocimientos adquiridos en la materia &lt;strong&gt;Laboratorio de Hardware&lt;/strong&gt;, abordando desde la selección de componentes hasta la proyección de un sistema funcional y escalable para el hogar.&lt;/p&gt;
+&lt;p&gt;El desarrollo de este trabajo permitió aplicar de forma práctica los conocimientos adquiridos en la materia &lt;strong&gt;Laboratorio de Hardware&lt;/strong&gt;, trabajando desde la selección de componentes hasta el diseño de una estación de trabajo profesional para entornos de ingeniería.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3 id=&#34;elección-fundamentada-de-hardware&#34;&gt;Elección fundamentada de hardware&lt;/h3&gt;
-&lt;p&gt;Se analizaron múltiples opciones y se eligieron componentes que ofrecen una buena relación entre precio, rendimiento y durabilidad. Ambas configuraciones propuestas cumplen con los requisitos básicos para un entorno doméstico con necesidades ofimáticas.&lt;/p&gt;</description>
+&lt;h3 id=&#34;elección-orientada-a-entornos-técnicos&#34;&gt;Elección orientada a entornos técnicos&lt;/h3&gt;
+&lt;p&gt;Se analizaron los requerimientos de software como Autodesk Fusion, Proteus y Visual Studio Code, seleccionando componentes que aseguren un rendimiento eficiente, compatibilidad y estabilidad en el uso de todos ellos. La elección se fundamentó en criterios técnicos reales del ámbito profesional.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -6,26 +6,27 @@ date: 2025-06-30
 
 ##  Conclusiones del Proyecto de Hardware
 
-El desarrollo de este trabajo permitió aplicar de forma práctica los conocimientos adquiridos en la materia **Laboratorio de Hardware**, abordando desde la selección de componentes hasta la proyección de un sistema funcional y escalable para el hogar.
+
+El desarrollo de este trabajo permitió aplicar de forma práctica los conocimientos adquiridos en la materia **Laboratorio de Hardware**, trabajando desde la selección de componentes hasta el diseño de una estación de trabajo profesional para entornos de ingeniería.
 
 ---
 
-###  Elección fundamentada de hardware
+### Elección orientada a entornos técnicos
 
-Se analizaron múltiples opciones y se eligieron componentes que ofrecen una buena relación entre precio, rendimiento y durabilidad. Ambas configuraciones propuestas cumplen con los requisitos básicos para un entorno doméstico con necesidades ofimáticas. 
-
----
-
-###  Equilibrio entre costos y prestaciones
-
-La propuesta de dos configuraciones (una más económica y otra más completa) demuestra que es posible adaptar un sistema informático según diferentes presupuestos sin comprometer el funcionamiento general del equipo.
+Se analizaron los requerimientos de software como Autodesk Fusion, Proteus y Visual Studio Code, seleccionando componentes que aseguren un rendimiento eficiente, compatibilidad y estabilidad en el uso de todos ellos. La elección se fundamentó en criterios técnicos reales del ámbito profesional.
 
 ---
 
-###  Preparado para el futuro
+### Alto rendimiento y optimización del presupuesto
 
-Los equipos seleccionados tienen posibilidades de expansión y mejora, lo cual extiende su vida útil y permite adaptarse a futuras demandas sin necesidad de reemplazar todo el sistema.
+Se propuso una única configuración de hardware diseñada para garantizar un rendimiento sólido y estable en el uso de todos los programas requeridos. La elección de cada componente se basó en su capacidad para ofrecer la mejor relación costo-beneficio, considerando los precios actuales del mercado local y las exigencias del software técnico.
 
 ---
 
-En resumen, se logró diseñar un sistema eficiente, accesible y documentado , cumpliendo con los objetivos propuestos y sentando una base sólida para futuros desarrollos en el área.
+### Preparado para el futuro
+
+El sistema diseñado admite futuras actualizaciones de memoria RAM, GPU y almacenamiento, lo que permite prolongar su vida útil y adaptarse a nuevas versiones de software sin reemplazar todo el equipo. Además, se contemplaron aspectos clave como refrigeración, conectividad moderna y ergonomía de perifericos
+
+---
+
+Se logró diseñar una estación de trabajo eficiente, escalable y adaptada a las necesidades reales de un entorno de ingeniería, cumpliendo con los objetivos del proyecto y sentando una base técnica sólida para desarrollos futuros en el área.
